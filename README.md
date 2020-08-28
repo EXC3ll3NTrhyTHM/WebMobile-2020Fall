@@ -1,9 +1,9 @@
 # Web and Mobile-2020Fall
 Welcome to Web and Mobile Programming
 
-### To Do: _Describe about your repo_
+### This repo is for turning in assignments
 
-**Student Name:** John Doe
+**Student Name:** Blake Simpson
 
 **Instructor Name:** Vijaya Yeruva
 
