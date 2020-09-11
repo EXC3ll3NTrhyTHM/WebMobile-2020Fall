@@ -1,9 +1,5 @@
 var p1score;
 var p2score;
-var rock = 1;
-var paper = 2;
-var scissors = 3;
-
 
 function rockpaperscissors() {
     let p1 = Math.floor(Math.random() * 2)+1;
