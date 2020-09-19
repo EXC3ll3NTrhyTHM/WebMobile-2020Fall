@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d82da82a-f2b3-43a7-82ca-264484e7ad30" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Web_Lesson4/Documentation/Web.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Web_Lesson4/Sourcecode/index.html" beforeDir="false" />
+    <list default="true" id="94e7da28-526c-493c-9c52-96f5570fcc33" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Web_Lesson3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Web_Lesson3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/Web.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sourcecode/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +14,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1hHL7DScmhFYCDBTeWfBXYIuceK" />
+  <component name="ProjectId" id="1heMY1GMQFo0NBiJO33PMzpIL65" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,27 +23,22 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Web_Lesson4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\SchoolStuff\WebMobile-2020Fall\2020Fall-Web\Web_Lesson3\InClassProgramming\RWD Task\input" />
-    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d82da82a-f2b3-43a7-82ca-264484e7ad30" name="Default Changelist" comment="" />
-      <created>1599662901973</created>
+      <changelist id="94e7da28-526c-493c-9c52-96f5570fcc33" name="Default Changelist" comment="" />
+      <created>1600367147646</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1599662901973</updated>
-      <workItem from="1599662903011" duration="2239000" />
-      <workItem from="1599765721385" duration="5670000" />
-      <workItem from="1599785661777" duration="1167000" />
-      <workItem from="1600366906227" duration="130000" />
-      <workItem from="1600367114711" duration="33000" />
+      <updated>1600367147646</updated>
+      <workItem from="1600367148692" duration="141000" />
+      <workItem from="1600367367585" duration="1941000" />
+      <workItem from="1600380112083" duration="2461000" />
+      <workItem from="1600539995466" duration="11314000" />
     </task>
     <servers />
   </component>
@@ -51,13 +46,13 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1600367146670">
+    <state x="461" y="164" key="SettingsEditor" timestamp="1600544208667">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600367146670" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1599768333982">
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600544208667" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600553966352">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599768333982" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600553966352" />
   </component>
 </project>
