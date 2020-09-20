@@ -32,7 +32,6 @@ $(document).ready(function () {
             response = getGithubInfo(username);
             //if the response is successful show the user's details
             if (response.status == 200) {
-                console.log(JSON.parse(response.responseText));
                 showUser(JSON.parse(response.responseText));
                 //else display suitable message
             } else {
