@@ -2,17 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d00aa82d-f6c7-42d0-9269-2418882b4fa1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Web_Lesson4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Web_Lesson4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/angular.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/src/app/app.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/LocalStorageDemo" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/LocalStorageDemo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/LocalStorageDemo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/LocalStorageDemo/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/LocalStorageDemo/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/LocalStorageDemo/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/LocalStorageDemo/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/LocalStorageDemo/src/app/app.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/LocalStorageDemo/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/LocalStorageDemo/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/angular.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/package.json" afterDir="false" />
@@ -21,7 +24,6 @@
       <change beforePath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/src/app/app.component.spec.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/src/app/app.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sourcecode/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="D:\SchoolStuff\WebMobile-2020Fall\2020Fall-Web\Web_Lesson5\Sourcecode\Usecase\memory-game\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="D:\SchoolStuff\WebMobile-2020Fall\2020Fall-Web\Web_Lesson5\Sourcecode\Angular\CustomDatabindingDemo\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -79,6 +81,7 @@
       <updated>1601145782296</updated>
       <workItem from="1601145792879" duration="18473000" />
       <workItem from="1601229670879" duration="8688000" />
+      <workItem from="1601238977852" duration="1527000" />
     </task>
     <servers />
   </component>
