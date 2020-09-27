@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d00aa82d-f6c7-42d0-9269-2418882b4fa1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Web_Lesson4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Web_Lesson4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/LocalStorageDemo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/LocalStorageDemo/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/LocalStorageDemo/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/LocalStorageDemo/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/LocalStorageDemo/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/LocalStorageDemo/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/LocalStorageDemo/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/LocalStorageDemo/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/src/app/app.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sourcecode/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Sourcecode/ICP/ToDoICP" />
+  </component>
+  <component name="ProjectId" id="1i3oksmEnbqr84BU74fj579igJZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\SchoolStuff\WebMobile-2020Fall\2020Fall-Web\Web_Lesson5\Sourcecode\Usecase\memory-game\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AppComponent" type="JavaScriptTestRunnerKarma" temporary="true" nameIsGenerated="true">
+      <config-file value="$PROJECT_DIR$/Sourcecode/Angular/LocalStorageDemo/src/karma.conf.js" />
+      <karma-package-dir value="$PROJECT_DIR$/Sourcecode/Angular/LocalStorageDemo/node_modules/@angular/cli" />
+      <working-directory value="$PROJECT_DIR$/Sourcecode/Angular/LocalStorageDemo" />
+      <node-interpreter value="project" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file-path value="$PROJECT_DIR$/Sourcecode/Angular/LocalStorageDemo/src/app/app.component.spec.ts" />
+      <test-names>
+        <test-name value="AppComponent" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Karma.AppComponent" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d00aa82d-f6c7-42d0-9269-2418882b4fa1" name="Default Changelist" comment="" />
+      <created>1601145782296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601145782296</updated>
+      <workItem from="1601145792879" duration="18473000" />
+      <workItem from="1601229670879" duration="8688000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601145958614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1902.-2160.1280.680@0.0.1920.1040" timestamp="1601145958614" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1601233070186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1902.-2160.1280.680@0.0.1920.1040" timestamp="1601149715873" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601233070186" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1601233070186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1902.-2160.1280.680@0.0.1920.1040" timestamp="1601149715873" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601233070186" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1601233070186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1902.-2160.1280.680@0.0.1920.1040" timestamp="1601149715873" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601233070186" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1601233070186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1902.-2160.1280.680@0.0.1920.1040" timestamp="1601149715873" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601233070186" />
+    <state width="1899" height="282" key="GridCell.Tab.1.bottom" timestamp="1601149715873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1902.-2160.1280.680@0.0.1920.1040" timestamp="1601149715873" />
+    <state width="1899" height="282" key="GridCell.Tab.1.center" timestamp="1601149715873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.1.center/0.0.1920.1040/-1902.-2160.1280.680@0.0.1920.1040" timestamp="1601149715873" />
+    <state width="1899" height="282" key="GridCell.Tab.1.left" timestamp="1601149715873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.1.left/0.0.1920.1040/-1902.-2160.1280.680@0.0.1920.1040" timestamp="1601149715873" />
+    <state width="1899" height="282" key="GridCell.Tab.1.right" timestamp="1601149715873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.1.right/0.0.1920.1040/-1902.-2160.1280.680@0.0.1920.1040" timestamp="1601149715873" />
+    <state width="1899" height="282" key="GridCell.Tab.4.bottom" timestamp="1601149641439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.4.bottom/0.0.1920.1040/-1902.-2160.1280.680@0.0.1920.1040" timestamp="1601149641439" />
+    <state width="1899" height="282" key="GridCell.Tab.4.center" timestamp="1601149641439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.4.center/0.0.1920.1040/-1902.-2160.1280.680@0.0.1920.1040" timestamp="1601149641439" />
+    <state width="1899" height="282" key="GridCell.Tab.4.left" timestamp="1601149641439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.4.left/0.0.1920.1040/-1902.-2160.1280.680@0.0.1920.1040" timestamp="1601149641439" />
+    <state width="1899" height="282" key="GridCell.Tab.4.right" timestamp="1601149641439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.4.right/0.0.1920.1040/-1902.-2160.1280.680@0.0.1920.1040" timestamp="1601149641439" />
+  </component>
+</project>
