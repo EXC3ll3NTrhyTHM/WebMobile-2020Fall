@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d00aa82d-f6c7-42d0-9269-2418882b4fa1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documentation/Web.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documentation/screenshot2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/screenshot2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documentation/screenshot3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/screenshot3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/angular.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sourcecode/Angular/CustomDatabindingDemo/package-lock.json" afterDir="false" />
@@ -84,7 +80,7 @@
       <updated>1601145782296</updated>
       <workItem from="1601145792879" duration="18473000" />
       <workItem from="1601229670879" duration="8688000" />
-      <workItem from="1601238977852" duration="4809000" />
+      <workItem from="1601238977852" duration="5354000" />
     </task>
     <servers />
   </component>
