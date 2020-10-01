@@ -63,6 +63,7 @@ export class SearchRecipeComponent implements OnInit {
       /**
        * Write code to get place
        */
+      // The below conditional is to allow for the web browser to provide a location to the query instead of the text input
       let locationSearchFormat;
       if (this.placeValue != null && this.placeValue !== '') {
         locationSearchFormat = 'near';

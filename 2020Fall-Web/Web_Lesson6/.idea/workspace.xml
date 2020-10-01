@@ -2,31 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1fad267-2945-4f54-9533-698e426c7f55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Web_Lesson6/ICE-MashUp/MashUp/images/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_Lesson6/ICE-MashUp/MashUp/images/google.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_Lesson6/ICE-MashUp/MashUp/src/app/header/header.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_Lesson6/ICE-MashUp/MashUp/src/app/header/header.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Web_Lesson5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Web_Lesson5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Web_Lesson5/Sourcecode/Angular/CustomDatabindingDemo" beforeDir="false" afterPath="$PROJECT_DIR$/../Web_Lesson5/Sourcecode/Angular/CustomDatabindingDemo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Web_Lesson5/Sourcecode/Angular/LocalStorageDemo" beforeDir="false" afterPath="$PROJECT_DIR$/../Web_Lesson5/Sourcecode/Angular/LocalStorageDemo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Web_Lesson5/Sourcecode/ICP/ToDoICP" beforeDir="false" afterPath="$PROJECT_DIR$/../Web_Lesson5/Sourcecode/ICP/ToDoICP" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson6/ICE-MashUp/MashUp/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson6/ICE-MashUp/MashUp/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Lesson6/ICE-MashUp/MashUp/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson6/ICE-MashUp/MashUp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Lesson6/ICE-MashUp/MashUp/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson6/ICE-MashUp/MashUp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Lesson6/ICE-MashUp/MashUp/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson6/ICE-MashUp/MashUp/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Lesson6/ICE-MashUp/MashUp/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson6/ICE-MashUp/MashUp/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Lesson6/ICE-MashUp/MashUp/src/app/app.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson6/ICE-MashUp/MashUp/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Lesson6/ICE-MashUp/MashUp/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson6/ICE-MashUp/MashUp/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Lesson6/ICE-MashUp/MashUp/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson6/UseCase/MyWiki/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson6/UseCase/MyWiki/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Lesson6/UseCase/MyWiki/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson6/UseCase/MyWiki/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Lesson6/UseCase/MyWiki/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson6/UseCase/MyWiki/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Lesson6/UseCase/MyWiki/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson6/UseCase/MyWiki/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Lesson6/UseCase/MyWiki/src/app/app.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson6/UseCase/MyWiki/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Lesson6/UseCase/MyWiki/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson6/UseCase/MyWiki/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Lesson6/UseCase/MyWiki/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson6/UseCase/MyWiki/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Lesson6/UseCase/MyWiki/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson6/UseCase/MyWiki/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sourcecode/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Lesson6/ICP/src/app/search-recipe/search-recipe.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Lesson6/ICP/src/app/search-recipe/search-recipe.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Lesson6/ICP/src/app/search-recipe/search-recipe.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Lesson6/ICP/src/app/search-recipe/search-recipe.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Web_Lesson6/ICE-MashUp/MashUp" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1iErI3M8tqMqlPGEoII83TjHFPc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -51,6 +30,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="D:\SchoolStuff\WebMobile-2020Fall\2020Fall-Web\Web_Lesson6\Web_Lesson6\UseCase\MyWiki\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -64,10 +44,17 @@
       <updated>1601483509166</updated>
       <workItem from="1601483510262" duration="8007000" />
       <workItem from="1601498884808" duration="7502000" />
+      <workItem from="1601583582450" duration="3114000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601583609588">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601583609588" />
   </component>
 </project>
