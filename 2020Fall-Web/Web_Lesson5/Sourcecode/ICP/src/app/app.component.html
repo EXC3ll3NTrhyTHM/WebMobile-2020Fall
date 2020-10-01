@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>To Do List</title>
+  // 1. write Typescript code in "app.component.ts" to work with ToDo list
+</head>
+<body>
+  <div class="container">
+    <h1 class="text-center">TODO List for 2020:</h1>
+    <div class="todo-list">
+      <div class="todo-list__head">
+        Enter your TODO list item:<input type="text" class="todo-list-head__text-input" #textbox>
+        <button (click)="submitNewItem(textbox.value)">Submit</button>
+      </div>
+      <div class="todo-list__items" id="list">
+        <li (click)="completeItem($event)">Item 1<countdown class="timer" id="timer1" [config]="{ leftTime: 10, format: 'm:s' }">$!h!:$!m!:$!s!</countdown><button class="todo-list-item__trash"  (click)="deleteItem($event)"></button></li>
+        <li (click)="completeItem($event)">Item 2<countdown class="timer" id="timer2" [config]="{ leftTime: 20, format: 'm:s' }">$!h!:$!m!:$!s!</countdown><button class="todo-list-item__trash" (click)="deleteItem($event)"></button></li>
+        <li (click)="completeItem($event)">Item 3<countdown class="timer" id="timer3" [config]="{ leftTime: 30, format: 'm:s' }">$!h!:$!m!:$!s!</countdown><button class="todo-list-item__trash" (click)="deleteItem($event)"></button></li>
+        <li (click)="completeItem($event)">Item 4<countdown class="timer" id="timer4" [config]="{ leftTime: 40, format: 'm:s' }">$!h!:$!m!:$!s!</countdown><button class="todo-list-item__trash" (click)="deleteItem($event)"></button></li>
+        <li (click)="completeItem($event)">Item 5<countdown class="timer" id="timer5" [config]="{ leftTime: 50, format: 'm:s' }">$!h!:$!m!:$!s!</countdown><button class="todo-list-item__trash" (click)="deleteItem($event)"></button></li>
+        <li (click)="completeItem($event)">Item 6<button class="todo-list-item__trash" (click)="deleteItem($event)"></button></li>
+        <li (click)="completeItem($event)">Item 7<button class="todo-list-item__trash" (click)="deleteItem($event)"></button></li>
+        <li (click)="completeItem($event)">Item 8<button class="todo-list-item__trash" (click)="deleteItem($event)"></button></li>
+        <li (click)="completeItem($event)">Item 9<button class="todo-list-item__trash" (click)="deleteItem($event)"></button></li>
+        <li (click)="completeItem($event)">Item 10<countdown class="timer" id="timer10" [config]="{ leftTime: 100, format: 'm:s' }">$!h!:$!m!:$!s!</countdown><button class="todo-list-item__trash" (click)="deleteItem($event)"></button></li>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
