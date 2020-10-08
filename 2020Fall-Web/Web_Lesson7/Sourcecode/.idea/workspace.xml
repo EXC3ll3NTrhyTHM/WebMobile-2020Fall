@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6bb70c4a-f705-4565-8078-0bf4ec019e6e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Web_Lesson6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web_Lesson6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1iZ4WvRgWJnc9CBd18Q7xBj5pgL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Web_Lesson6/Web_Lesson6/ICP" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\SchoolStuff\WebMobile-2020Fall\2020Fall-Web\Web_Lesson7\Sourcecode\Web_Lesson7\Web_Lesson7\LibraryManagementSystem\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.mongodb_insert.js">
+    <configuration name="mongodb_create_collection.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Web_Lesson7/Web_Lesson7/MongoDB/mongodb_create_collection.js" working-dir="$PROJECT_DIR$/Web_Lesson7/Web_Lesson7/MongoDB">
+      <method v="2" />
+    </configuration>
+    <configuration name="mongodb_create_db.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Web_Lesson7/Web_Lesson7/MongoDB/mongodb_create_db.js" working-dir="$PROJECT_DIR$/Web_Lesson7/Web_Lesson7/MongoDB">
+      <method v="2" />
+    </configuration>
+    <configuration name="mongodb_insert.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Web_Lesson7/Web_Lesson7/MongoDB/mongodb_insert.js" working-dir="$PROJECT_DIR$/Web_Lesson7/Web_Lesson7/MongoDB">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.mongodb_insert.js" />
+        <item itemvalue="Node.js.mongodb_create_collection.js" />
+        <item itemvalue="Node.js.mongodb_create_db.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bb70c4a-f705-4565-8078-0bf4ec019e6e" name="Default Changelist" comment="" />
+      <created>1602101814874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602101814874</updated>
+      <workItem from="1602101815911" duration="6452000" />
+      <workItem from="1602185832398" duration="8998000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1602109366891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602109366891" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1602113295742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602113295742" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1602113295742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602113295742" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1602113295742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602113295742" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1602113295742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602113295742" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1602197188388">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602197188388" />
+  </component>
+</project>
