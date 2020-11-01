@@ -23,6 +23,8 @@ ICP7: https://github.com/EXC3ll3NTrhyTHM/WebMobile-2020Fall/wiki/Web_ICP7
 
 **Wiki Links for Mobile ICPs**
 
+ICP1: https://github.com/EXC3ll3NTrhyTHM/WebMobile-2020Fall/wiki/Mobile_ICP1
+
 
 
 **Wiki Link for Project:** 
