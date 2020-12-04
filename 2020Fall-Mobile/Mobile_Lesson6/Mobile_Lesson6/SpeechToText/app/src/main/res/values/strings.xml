@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpeechToText</string>
+    <string name="hint">Tap on mic to start</string>
+    <string name="todo">TODO</string>
+</resources>
